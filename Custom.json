@@ -10,5 +10,11 @@
     "bgColor": "F7E3D7",
     "nameColor": "E0B48D",
     "image": "96645466907093"
+  },
+  "melodycrafter3": {
+    "outline": "#f8c427",
+    "bgColor": "#050a03",
+    "nameColor": "#ffd73c",
+    "image": "rbxassetid://110157465290760"
   }
 }
